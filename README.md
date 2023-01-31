@@ -1,5 +1,5 @@
 # Timedoor INTERMEDIATE JavaScript Class (Int 1)
-This repository contains the codes for Meetings 1-13 of Intermediate 1 of the Intermediate JavaScript class of Timedoor Coding Academy.
+This repository contains the codes for Meetings 1-13 of Intermediate 1 of the Intermediate JavaScript course of Timedoor Coding Academy.
 
 * <b>Meeting 1</b>: How cool is the Programming World? <br>
 * <b>Meeting 2</b>: Number Generator <br>
